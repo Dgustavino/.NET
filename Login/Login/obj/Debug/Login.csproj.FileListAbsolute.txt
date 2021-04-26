@@ -1,0 +1,13 @@
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.exe.config
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.Form1.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.Menu.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Login\Login\obj\Debug\Login.exe
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Login\Login\obj\Debug\Login.pdb
