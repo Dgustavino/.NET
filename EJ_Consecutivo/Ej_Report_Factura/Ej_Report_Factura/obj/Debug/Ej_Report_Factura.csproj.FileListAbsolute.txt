@@ -1,0 +1,12 @@
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\bin\Debug\Ej_Report_Factura.exe.config
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\bin\Debug\Ej_Report_Factura.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\bin\Debug\Ej_Report_Factura.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.csprojResolveAssemblyReference.cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.Form1.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.Properties.Resources.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.csproj.GenerateResource.Cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.pdb
+C:\Users\Gustavino\Desktop\EJ_Consecutivo\Ej_Report_Factura\Ej_Report_Factura\bin\Debug\Ej_Report_Factura.exe.config
+C:\Users\Gustavino\Desktop\EJ_Consecutivo\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.exe
+C:\Users\Gustavino\Desktop\EJ_Consecutivo\Ej_Report_Factura\Ej_Report_Factura\obj\Debug\Ej_Report_Factura.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej_Report_Factura", "Ej_Report_Factura\Ej_Report_Factura.csproj", "{45522F9C-BB4E-430C-9A0B-4758B4ABFBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45522F9C-BB4E-430C-9A0B-4758B4ABFBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45522F9C-BB4E-430C-9A0B-4758B4ABFBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45522F9C-BB4E-430C-9A0B-4758B4ABFBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45522F9C-BB4E-430C-9A0B-4758B4ABFBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
