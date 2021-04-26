@@ -1,0 +1,36 @@
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe.config
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csprojResolveAssemblyReference.cache
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Form1.resources
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Properties.Resources.resources
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csproj.GenerateResource.Cache
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.pdb
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.exe
+c:\users\gustavino\documents\visual studio 2012\Projects\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.pdb
+F:\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe.config
+F:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.exe
+F:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.pdb
+F:\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe
+F:\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.pdb
+F:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csprojResolveAssemblyReference.cache
+F:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Form1.resources
+F:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Properties.Resources.resources
+F:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csproj.GenerateResource.Cache
+E:\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe.config
+E:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.exe
+E:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.pdb
+E:\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe
+E:\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.pdb
+E:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csprojResolveAssemblyReference.cache
+E:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Form1.resources
+E:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Properties.Resources.resources
+E:\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csproj.GenerateResource.Cache
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe.config
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.exe
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.pdb
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.exe
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\bin\Debug\Conexion_BD.pdb
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csprojResolveAssemblyReference.cache
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Form1.resources
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.Properties.Resources.resources
+C:\Users\Gustavino\Desktop\Conexion_BD\Conexion_BD\obj\Debug\Conexion_BD.csproj.GenerateResource.Cache
