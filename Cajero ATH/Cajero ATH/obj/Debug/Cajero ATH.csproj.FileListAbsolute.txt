@@ -1,0 +1,6 @@
+c:\users\gustavino\documents\visual studio 2012\Projects\Cajero ATH\Cajero ATH\bin\Debug\Cajero ATH.exe.config
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Cajero ATH\Cajero ATH\obj\Debug\Cajero ATH.csprojResolveAssemblyReference.cache
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Cajero ATH\Cajero ATH\obj\Debug\Cajero_ATH.Cajero_ATH.resources
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Cajero ATH\Cajero ATH\obj\Debug\Cajero_ATH.Cajero.resources
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Cajero ATH\Cajero ATH\obj\Debug\Cajero_ATH.Properties.Resources.resources
+C:\Users\Gustavino\Documents\Visual Studio 2012\Projects\Cajero ATH\Cajero ATH\obj\Debug\Cajero ATH.csproj.GenerateResource.Cache
